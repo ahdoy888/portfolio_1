@@ -1,6 +1,5 @@
 import React from 'react';
-import Picture1 from './Pictures/0001.jpg';
-// import Picture2 from './Pictures/0002.jpg';
+import Picture1 from './image.png';
 
 import './Main.css';
 

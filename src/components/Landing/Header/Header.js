@@ -1,6 +1,4 @@
 import React, { Component } from 'react';
-// import Landing from '../Landing';
-// import yellow from './yellow.jpeg';
 import './Header.css';
 
 const Header = () => {

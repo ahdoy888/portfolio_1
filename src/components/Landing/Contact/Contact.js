@@ -4,11 +4,18 @@ import './Contact.css'
 const Contact = () => {
   return (
     <>
-        <div id="contact" className="card-body">
-          <h3 className="card-title">Jacky Koo</h3>
-          <p className="card-text">Contact me at : 415.867.5656</p>
-          <p className="card-text">Email: jhk888@yahoo.com</p>
-        </div>
+      <section id="contact">
+			  <div className="wrap">
+			    <h2>Get in Touch</h2>
+				  <form action="https://formspree.io/email@domain.tld" className="contact" method="POST">
+					<input type="text" name="name" placeholder="Full Name" class="col-third" />
+					<input type="email" name="_replyto" placeholder="Email" className="col-third" />
+					<input type="text" placeholder="Subject" className="col-third" />
+					<textarea name="name" id="" cols="30" rows="10" placeholder="Message"></textarea>
+					<button type="submit" value="Send">Submit</button>
+				  </form>
+			  </div>
+		  </section>
     </>
   )
 }

@@ -9,17 +9,9 @@ header h2 {
 }
 
 .header-blog {
-    /* background-image: url(./blog_header_bg.jpg); */
-		background-image: url('./whitney.jpeg');
-	/* background-color: salmon; */
-	background-size: cover;
+	background-image: url('./GA_picture.jpg');
+	background-size: contain;
 	background-position: center;
-
-/* 	padding-top: 6rem;
-	padding-bottom: 2.5rem; */
-
-	/* If there is a background-image */
-	/* height: 350px; */
 	height: 100vh;
 	margin-bottom: 48px;
 	margin-bottom: 3rem;
@@ -28,8 +20,6 @@ header h2 {
 
 h1 a {
 	color: #44545E;
-
-	/* If background-image */
 	color: white;
 	margin-top: 40px;
 	margin-top: 2.5rem;
