@@ -1,0 +1,12 @@
+.header-landing {
+	background-image: url(./photo_1.jpeg);
+	background-position: center;
+	background-attachment: fixed;
+	height: 100vh;
+}
+
+.name {
+	font-weight: bold;
+	color: black;
+	font-size: 3rem;
+}
