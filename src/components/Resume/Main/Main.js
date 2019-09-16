@@ -1,5 +1,5 @@
 import React from 'react';
-import Picture1 from './image.png';
+import Picture1 from './resume.png';
 
 import './Main.css';
 
