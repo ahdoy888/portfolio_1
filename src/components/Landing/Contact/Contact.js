@@ -7,7 +7,7 @@ const Contact = () => {
       <section id="contact">
 			  <div className="wrap">
 			    <h2>Get in Touch</h2>
-				  <form action="https://formspree.io/jhk888@yahoo.com" className="contact" method="POST">
+				  <form action="https://formspree.io/jacky.hungfai.koo@gmail.com" className="contact" method="POST">
 					<input type="text" name="name" placeholder="Full Name" class="col-third" />
 					<input type="email" name="_replyto" placeholder="Email" className="col-third" />
 					<input type="text" placeholder="Subject" className="col-third" />
