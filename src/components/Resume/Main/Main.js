@@ -1,5 +1,6 @@
 import React from 'react';
-import Picture1 from './resume_005.png';
+import Picture1 from './resume_006.png';
+import Picture2 from './resume_007.png';
 
 
 import './Main.css';
@@ -9,6 +10,7 @@ const Main = () => {
           <div id='resume' className="resume2">
             <div>
               <img className='page-one' src={Picture1} alt="resume page one" />
+              <img className='page-one' src={Picture2} alt="resume page one" />
             </div>             
           </div>
                         
