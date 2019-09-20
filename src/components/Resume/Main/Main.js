@@ -1,6 +1,6 @@
 import React from 'react';
-import Picture1 from './resume_006.png';
-import Picture2 from './resume_007.png';
+import Picture1 from './resume_001.png';
+import Picture2 from './resume_002.png';
 
 
 import './Main.css';
