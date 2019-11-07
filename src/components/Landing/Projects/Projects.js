@@ -32,9 +32,10 @@ const Projects = () => {
   <article className="col-third">
   <h3 className="herokuTwo">Wedding App</h3>
     <img src={project3} alt="Login page for Wedding App" />
-    <a href="">Heroku Link</a>
+    <a href="https://wedding-11-23.herokuapp.com/">Heroku Link</a>
     <p>Full stack Applications using React and Bootstrap as Front End frameworks and Libraies. Backend as Nodejs, Express, MongoDB and Axios as API.</p>
-    <a href="https://github.com/ahdoy888/weddin_react || https://github.com/ahdoy888/weddin_api">View Source</a>
+    <a href="https://github.com/ahdoy888/weddin_react">View F/E</a> <br />
+    <a href="https://github.com/ahdoy888/weddin_api">View B/E</a>
   </article>
 </div>
 </section> 
